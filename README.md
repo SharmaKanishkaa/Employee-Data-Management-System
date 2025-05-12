@@ -77,6 +77,7 @@ The **Employee Data Management System** is a scalable data engineering project b
 * **Kafka**: Real-time communication monitoring
 * **AWS Glue / PySpark**: ETL
 * **PostgreSQL on EC2**: Staging and final DB
+* **Dashboard**: Grafana
 * **Parquet**: Intermediate data format
 
 ---
