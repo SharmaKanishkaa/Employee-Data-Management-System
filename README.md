@@ -4,13 +4,13 @@
 ![Mermaid Chart](./mermaid-diagram.png)
 ![Mermaid Chart](./mermaid-diagram_01.png)
 
-## 🚀 Project Overview
+## Project Overview
 
 The **Employee Data Management System** is a scalable data engineering project built on AWS to automate the ingestion, processing, and monitoring of employee data. It leverages batch pipelines (daily/yearly) and real-time Kafka streams to track employee activity, generate insightful reports, and detect misuse of organizational policies.
 
 ---
 
-## 📌 Business Goals
+## Business Goals
 
 * Efficient management of employee records and updates.
 * Track and analyze employee leave patterns.
@@ -19,7 +19,7 @@ The **Employee Data Management System** is a scalable data engineering project b
 
 ---
 
-## 🗃️ Data Sources
+## Data Sources
 
 | Source                             | Format | Frequency           |
 | ---------------------------------- | ------ | ------------------- |
@@ -33,7 +33,7 @@ The **Employee Data Management System** is a scalable data engineering project b
 
 ---
 
-## 🛠️ System Architecture & Processing
+## System Architecture & Processing
 
 ### 🔹 1. Employee Master Table
 
@@ -71,7 +71,7 @@ The **Employee Data Management System** is a scalable data engineering project b
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 * **AWS S3**: Storage of CSVs
 * **Kafka**: Real-time communication monitoring
@@ -81,23 +81,23 @@ The **Employee Data Management System** is a scalable data engineering project b
 
 ---
 
-## 📈 Success Metrics
+## Success Metrics
 
-* ✅ Daily/Yearly data ingestion
-* ✅ Accurate leave tracking & quota calculations
-* ✅ Real-time communication abuse detection
-* ✅ Monthly/adhoc reports generated reliably
-
----
-
-## 📉 Limitations
-
-* ❌ No email alerts or notifications implemented
-* ❌ External integration beyond data & reporting not included
+* Daily/Yearly data ingestion
+* Accurate leave tracking & quota calculations
+* Real-time communication abuse detection
+* Monthly/adhoc reports generated reliably
 
 ---
 
-## 📊 ER Diagram
+## Limitations
+
+* No email alerts or notifications implemented
+* External integration beyond data & reporting not included
+
+---
+
+## ER Diagram
 
 ![ER Diagram](./er-diagram.png)
 
@@ -116,13 +116,14 @@ The **Employee Data Management System** is a scalable data engineering project b
 ```
 
 ---
+## DDASHBOARD
+![Mermaid Chart](./dashboard1.png)
+![Mermaid Chart](./dashboard2.png)
 
 ## 👤 Author
 
-**Himanshu Kumar**
-📧 [shishusha922@gmail.com](mailto:shishusha922@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/himanshu-kumar-7136811b0/)
-🔗 [GitHub](https://github.com/himan1009)
+**Kanishka Sharma**
+📧 [sharmakanishka1604@gmai.com](mailto:sharmakanishka1604@gmail.com)
 
 ---
 
