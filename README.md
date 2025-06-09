@@ -118,7 +118,7 @@ The **Employee Data Management System** is a scalable data engineering project b
 
 ---
 ## DASHBOARD
-![Mermaid Chart](./dashboard.png)
+![Dashboard](./dashboard.jpg)
 
 
 ## 👤 Author
